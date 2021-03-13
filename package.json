@@ -1,0 +1,15 @@
+{
+  "name": "pipepuppet",
+  "version": "1.0.0",
+  "description": "Pupeteer project for grabbing pipefy data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Daniel Beach",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0"
+  }
+}
